@@ -17,7 +17,7 @@ No extra user stories were completed.
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/WVSUa' title='Globitek Registration Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/0rmW7hA.gif' title='Globitek Registration Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
